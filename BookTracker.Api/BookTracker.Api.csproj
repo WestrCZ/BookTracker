@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OpenIddictBookTracker.Data\BookTracker.Data.csproj" />
+    <ProjectReference Include="..\BookTracker.Data\BookTracker.Data.csproj" />
   </ItemGroup>
 
 </Project>
